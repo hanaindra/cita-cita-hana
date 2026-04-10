@@ -3,6 +3,8 @@ RENCANA KONTEN WPU
 - Bikin Javascript
  * ES6
  * Framework Java
+  ^Vue
 - Fundamental Data Structure
+  ^Oracle
 - Interview
 - Vlog
