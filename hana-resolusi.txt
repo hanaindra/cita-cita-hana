@@ -1,0 +1,5 @@
+Hallo saya hana dari magelang
+
+Resolusi saya :
+- Bikin web dari framework menggunakan javascript
+- saya ingin bekerja di startup
