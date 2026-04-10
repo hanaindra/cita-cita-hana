@@ -1,0 +1,7 @@
+RENCANA KONTEN WPU
+
+- Bikin Javascript
+ * ES6
+ * Framework Java
+- Interview
+- Vlog
