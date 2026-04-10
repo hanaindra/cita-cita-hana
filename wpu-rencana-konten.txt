@@ -5,6 +5,7 @@ RENCANA KONTEN WPU
  * Framework Java
   ^Vue
   ^React
+  ^Angular
 - Fundamental Data Structure
   ^Oracle
 - Interview
